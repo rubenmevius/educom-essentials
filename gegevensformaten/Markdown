@@ -14,7 +14,7 @@ Data, minder goed leesbaar in syntax. Gebruikt voor spreadsheets en tabellen. Da
 vectorbestanden, gebruikt voor scherpe afbeeldingen - oneindig schaalbaar. Kleine bestanden, dus runt snel
 
 #YAML
-Veel gebruikt in programmeer omgevingen, configuratie files en voor exxtenties en plugins. 
+Veel gebruikt in programmeer omgevingen, configuratie files en voor extenties en plugins. 
 
 #TOML
 Makkelijk leesbaar configuratiebestand. Bevat informatie over ip adres / servers etc.
