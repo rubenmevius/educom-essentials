@@ -1,0 +1,20 @@
+#Markdown
+Voor tekstbestanden zoals deze. Gebruikt voor README. Opmaak is zichtbaar door *dit soort tekens*. Makkelijk te gebruiken maar minder geavanceerde structuren mogelijk.
+
+#JSON
+leesbare vorm van data in arrays in de vorm van getallen, strings, true / false / null
+
+#XML
+Tekstbestand, minder goed leesbaar in syntax maar meer structuur dan markdown of HTML
+
+#CSV
+Data, minder goed leesbaar in syntax. Gebruikt voor spreadsheets en tabellen. Data gescheiden door komma's
+
+#SVG
+vectorbestanden, gebruikt voor scherpe afbeeldingen - oneindig schaalbaar. Kleine bestanden, dus runt snel
+
+#YAML
+Veel gebruikt in programmeer omgevingen, configuratie files en voor exxtenties en plugins. 
+
+#TOML
+Makkelijk leesbaar configuratiebestand. Bevat informatie over ip adres / servers etc.
